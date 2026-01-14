@@ -1,0 +1,176 @@
+Last login: Wed Jan 14 08:54:57 on ttys000
+pl1025396@7118L20 ~ % cd Downloads 
+pl1025396@7118L20 Downloads % ls   
+0.						circle-detected.png
+Comparative Analysis Essay Rubric.pdf		circle.png
+GUInew - Yi Jiang .pdf				circle.py
+IMG_5638.jpg					circle1.png
+IMG_5639.jpg					circlemove.py
+IMG_5640.jpg					circles.py
+Periodic Trends - STUDENT.pdf			circletry.py
+Quantum Mechanical Model - STUDENT.pdf		cmake-4.2.0-rc2-macos-universal (1).dmg
+Screenshot 2026-01-09 at 9.02.48 AM.png		cmake-4.2.0-rc2-macos-universal.dmg
+Screenshot 2026-01-09 at 9.02.53 AM.png		cmake-4.2.0-rc2-macos-universal.tar.gz
+Submission+5.html				fhwasa15084_fig15.gif
+Units3-4_Sample_TEST.pdf			finalMidtermSid.py
+api.py						gui.py
+can.MOV						guinew.py
+circ.jpg					python-3.7.0-macosx10.9.pkg
+pl1025396@7118L20 Downloads % vim circlemove.py
+pl1025396@7118L20 Downloads % rm circlemove.py
+pl1025396@7118L20 Downloads % vim circlemove.py 
+pl1025396@7118L20 Downloads % python3 circlemove.py
+2026-01-14 09:00:57.398 Python[51063:3152682] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:00:57.398 Python[51063:3152682] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % rm circlemove.py 
+pl1025396@7118L20 Downloads % vim circlemove.py
+pl1025396@7118L20 Downloads % python3 circlemove.py
+/Users/pl1025396/Downloads/circlemove.py:29: RuntimeWarning: overflow encountered in scalar subtract
+  cv2.putText(frame, f"R={i[2]}", (i[0], i[1]-i[2]-10),
+zsh: terminated  python3 circlemove.py
+pl1025396@7118L20 Downloads % vim circlemove.py
+pl1025396@7118L20 Downloads % rm circlemove.py
+pl1025396@7118L20 Downloads % vim circlemove.py
+\%                                                                                                                                  pl1025396@7118L20 Downloads % python3 circlemove.py
+2026-01-14 09:04:21.321 Python[51237:3156442] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:04:21.321 Python[51237:3156442] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove.py
+pl1025396@7118L20 Downloads % python3 circlemove.py
+2026-01-14 09:08:37.426 Python[51474:3161186] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:08:37.426 Python[51474:3161186] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove1.py  
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:09:58.914 Python[51539:3162532] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:09:58.914 Python[51539:3162532] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:11:11.353 Python[51619:3163828] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:11:11.353 Python[51619:3163828] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:11:42.679 Python[51649:3164349] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:11:42.679 Python[51649:3164349] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % 
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:16:54.294 Python[51893:3169225] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:16:54.294 Python[51893:3169225] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+:wq%                                                                                                                                pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:21:36.717 Python[52110:3173146] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:21:36.717 Python[52110:3173146] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.pt
+/Library/Frameworks/Python.framework/Versions/3.13/Resources/Python.app/Contents/MacOS/Python: can't open file '/Users/pl1025396/Downloads/circlemove1.pt': [Errno 2] No such file or directory
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:24:36.093 Python[52247:3175711] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:24:36.093 Python[52247:3175711] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:27:45.894 Python[52417:3178877] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:27:45.894 Python[52417:3178877] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:29:03.722 Python[52491:3180204] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:29:03.722 Python[52491:3180204] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+/Users/pl1025396/Downloads/circlemove1.py:48: RuntimeWarning: overflow encountered in scalar subtract
+  cv2.line(frame, (x-10, y), (x+10, y), (0, 0, 255), 2)
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:29:52.114 Python[52535:3181064] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:29:52.115 Python[52535:3181064] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % wq
+zsh: command not found: wq
+pl1025396@7118L20 Downloads % :wq
+zsh: command not found: :wq
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:30:51.386 Python[52587:3182050] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:30:51.386 Python[52587:3182050] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:31:36.753 Python[52628:3182756] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:31:36.753 Python[52628:3182756] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % :wq
+zsh: command not found: :wq
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:32:20.551 Python[52655:3183450] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:32:20.551 Python[52655:3183450] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % qw
+zsh: command not found: qw
+pl1025396@7118L20 Downloads % vim circlemove1.py
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:32:57.491 Python[52689:3184128] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:32:57.491 Python[52689:3184128] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % python3 circlemove1.py
+2026-01-14 09:33:17.960 Python[52702:3184507] +[IMKClient subclass]: chose IMKClient_Modern
+2026-01-14 09:33:17.960 Python[52702:3184507] +[IMKInputSession subclass]: chose IMKInputSession_Modern
+pl1025396@7118L20 Downloads % vim circlemove1.py
+
+"""
+Simple Circular Shape Detection for Soda Can
+Project: Q3 PROJECT 4 - Simplified Version
+"""
+
+import cv2
+import numpy as np
+
+# Open video file
+cap = cv2.VideoCapture('can.MOV')
+
+# Keep track of last detected circle to prevent flickering
+last_circle = None
+
+while True:
+    # Read frame
+    ret, frame = cap.read()
+    if not ret:
+        break
+
+    # Convert to grayscale
+    gray = cv2.cvtColor(frame, cv2.COLOR_BGR2GRAY)
+
+    # Blur to reduce noise
+    blur = cv2.GaussianBlur(gray, (9, 9), 2)
+
+    # Detect circles using Hough Circle Transform
+    circles = cv2.HoughCircles(blur, cv2.HOUGH_GRADIENT, dp=1.2, minDist=50,
+                               param1=50, param2=30, minRadius=280, maxRadius=290)
+
+    # If circles are found
+    if circles is not None:
+        circles = np.uint16(np.around(circles))
+
+        # Get the first (strongest) circle
+        x, y, r = circles[0][0]
+        last_circle = (x, y, r)
+
+    # Draw the circle if we have one (use last_circle if no new detection)
+    if last_circle is not None:
+        x, y, r = last_circle
+
+        # Draw circumference (green circle)
+        cv2.circle(frame, (x, y), r, (0, 255, 0), 3)
+
+        # Draw center (red dot with cross)
+        cv2.circle(frame, (x, y), 5, (0, 0, 255), -1)
+        cv2.line(frame, (x-10, y), (x+10, y), (0, 0, 255), 2)
+        cv2.line(frame, (x, y-10), (x, y+10), (0, 0, 255), 2)
+
+        # Display center coordinates
+        cv2.putText(frame, f"Center: ({x}, {y})", (10, 30),
+                   cv2.FONT_HERSHEY_SIMPLEX, 0.7, (255, 255, 255), 2)
+
+    # Show result
+    cv2.imshow('Circle Detection', frame)
+
+    # Press 'q' to quit
+    if cv2.waitKey(1) & 0xFF == ord('q'):
+        break
+
+# Clean up
+cap.release()
+cv2.destroyAllWindows()
+~                                                                                                                                   
+~                                                                                                                                   
+~                                                                                                                                   
+"circlemove1.py" 64L, 1801B
