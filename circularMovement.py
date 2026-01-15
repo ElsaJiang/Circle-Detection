@@ -1,6 +1,42 @@
 """
-Simple Circular Shape Detection for Soda Can
-Project: Q3 PROJECT 4 - Simplified Version
+BEGIN PROGRAM
+    Open video file 'can.MOV'
+    Initialize last_circle = None
+    
+    WHILE video has frames DO
+        Read current frame
+        
+        // Image preprocessing
+        Convert frame to grayscale
+        Apply Gaussian blur
+        
+        // Circle detection
+        Detect circles using Hough Transform with specific parameters
+        (Looking for radius between 280-287 pixels)
+        
+        // Process results
+        IF circles detected THEN
+            Get strongest circle (first one)
+            Update last_circle with new detection
+        END IF
+        
+        // Visualization
+        IF last_circle exists THEN
+            Draw green circle at last_circle position
+            Draw red center cross at circle center
+            Display center coordinates (x, y)
+        END IF
+        
+        Show processed frame
+        
+        IF 'q' key pressed THEN
+            BREAK
+        END IF
+    END WHILE
+    
+    Release video resources
+    Close all windows
+END PROGRAM
 """
 
 import cv2
