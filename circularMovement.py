@@ -62,7 +62,4 @@ while True:
 # Clean up
 cap.release()
 cv2.destroyAllWindows()
-~                                                                                                                                   
-~                                                                                                                                   
-~                                                                                                                                   
-"circlemove1.py" 64L, 1801B
+
