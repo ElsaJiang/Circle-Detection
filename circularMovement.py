@@ -1,4 +1,10 @@
 """
+-------------------------------------
+PSEUDOCODE: CIRCULAR SHAPE MOVEMENT
+Version: 1.0.0
+Author: Yi Jiang
+# Date created: 01/15/2026
+-------------------------------------
 BEGIN PROGRAM
     Open video file 'can.MOV'
     Initialize last_circle = None
